@@ -1,0 +1,5 @@
+| Risk Level  | Clauses |
+| ----------- | ------- |
+| High risk   | 12      |
+| Medium risk | 21      |
+| Low risk    | 45      |

@@ -1,0 +1,8 @@
+| **Client Name:**                                  | BlueLeaf Retail Pvt Ltd         |
+| ------------------------------------------------- | ------------------------------- |
+| **Contract ID:**                                  | BLR-MSA-2026-019                |
+| **Effective Date:**                               | 01 Apr 2026                     |
+| **Renewal Type:**                                 | Auto renewal with 60 day notice |
+| **Data Region:**                                  | India - South                   |
+| **Reviewer:**                                     | K. Mehta                        |
+| **\[x] Approved for ingestion after PII masking** |                                 |
